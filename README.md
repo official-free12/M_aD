@@ -1,0 +1,6 @@
+# 3/M买 卖宝金融HZ平台系统完整版源码，修复财务明细奖金计算方式和部分已知BUG
+
+【3M买卖宝金融HZ平台系统完整版源码，修复财务明细奖金计算方式和部分已知BUG，门票支付功能，带激活码等一些列强大的功能，零度中国重写安装教程，修复一起密码错误,让新手更加容易安装！<br> <br> <br>安装教程：<br>1、上传程序到你的网站根目录，<br>2、运行http://域名/example.com/进入帝国备份王恢复数据  账号admin  密码123456<br>3、修改“example.com”数据链接文件<br>后台测试账号：800000 密码：example.com<br>--------------------------------------------------<br>修改说明：<br>个人中心的 推广链接需要自己动手替换成自己的URL，修改方法<br>Zyrj\Lib\Action\example.com这个文件里面的URL：http://example.com 替换成你自己的网站地址就可以了<br>其他文件修改路径：（请将以下文件内的域名：example.com 换为您的即可！ ）<br>\Zyrj\Lib\Action\example.com<br>\Zyrj\Tpl\Public\example.com<br>\Zyrj\Tpl\Public\example.com<br>\Zyrj\Tpl\Public\example.com<br>\Zyrj\Tpl\Public\example.com<br>缓存文件位置：\Zyrj\Runtime\Cache\<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZJxsb" style="color: red;">https://mega-file.org/ZJxsb</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
